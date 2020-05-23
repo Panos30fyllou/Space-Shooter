@@ -1,0 +1,12 @@
+C:\Users\Kingpin\Documents\Space Shooter\Space Shooter\bin\Debug\Space Shooter.exe.config
+C:\Users\Kingpin\Documents\Space Shooter\Space Shooter\bin\Debug\Space Shooter.exe
+C:\Users\Kingpin\Documents\Space Shooter\Space Shooter\bin\Debug\Space Shooter.pdb
+C:\Users\Kingpin\Documents\Space Shooter\Space Shooter\obj\Debug\Space Shooter.csprojAssemblyReference.cache
+C:\Users\Kingpin\Documents\Space Shooter\Space Shooter\obj\Debug\Space_Shooter.LoginScreen.resources
+C:\Users\Kingpin\Documents\Space Shooter\Space Shooter\obj\Debug\Space_Shooter.Lobby.resources
+C:\Users\Kingpin\Documents\Space Shooter\Space Shooter\obj\Debug\Space_Shooter.Game.resources
+C:\Users\Kingpin\Documents\Space Shooter\Space Shooter\obj\Debug\Space_Shooter.Properties.Resources.resources
+C:\Users\Kingpin\Documents\Space Shooter\Space Shooter\obj\Debug\Space Shooter.csproj.GenerateResource.cache
+C:\Users\Kingpin\Documents\Space Shooter\Space Shooter\obj\Debug\Space Shooter.csproj.CoreCompileInputs.cache
+C:\Users\Kingpin\Documents\Space Shooter\Space Shooter\obj\Debug\Space Shooter.exe
+C:\Users\Kingpin\Documents\Space Shooter\Space Shooter\obj\Debug\Space Shooter.pdb
